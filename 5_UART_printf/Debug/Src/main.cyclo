@@ -1,0 +1,6 @@
+../Src/main.c:42:5:__io_putchar	1
+../Src/main.c:49:5:main	1
+../Src/main.c:66:6:UART2_Tx_Init	1
+../Src/main.c:107:17:UART_Compute_Div	1
+../Src/main.c:115:13:UART_BaudRate_Config	1
+../Src/main.c:123:13:UART2_Write	2
