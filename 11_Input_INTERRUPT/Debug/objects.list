@@ -1,0 +1,8 @@
+"./Src/ADC.o"
+"./Src/EXTI.o"
+"./Src/SysTick.o"
+"./Src/UART.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32l452retx.o"
